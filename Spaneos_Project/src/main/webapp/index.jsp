@@ -20,14 +20,8 @@
 	<script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
 	<script src="js/script.js" type="text/javascript"></script>
 	<script type="text/javascript" src="js/css3-mediaqueries.js"></script>
-	<script src="js/responsiveslides.js"></script>
-	<link rel="stylesheet"
-	href="css/bootstrap.min.css">
-	<link rel="stylesheet"
-	href="css/bootstrap.css">
-
-<script
-	src="js/bootstrap.min.js"></script>
+	 
+ 
 	<script type="text/javascript"src="js/jquery.1.9.1.js"></script>
 	<script>
 		$(function () {
